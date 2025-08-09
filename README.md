@@ -59,8 +59,8 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Hassaballah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranawael1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaballah101&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ranawael1" height="230px"/>
+	    <img alt="Hassaballah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hassaballah101&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaballah101&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Hassaballah101" height="230px"/>
 <br/>
 
   </p>
